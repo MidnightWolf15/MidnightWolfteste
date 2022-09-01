@@ -4,7 +4,7 @@
 
 #### 💼 Hoje trabalho com Front-end e UX/UI Design.
 #### 🌱 Estudando Programação Web e Gestão de Qualidade.
-#### ❤ Amo Programar, Criar, Descobrir, Compartilhar e Reeventar.
+#### ❤ Amo Programar, Criar, Descobrir, Compartilhar e Reinventar.
 
 <div>
   <a href="https://github.com/MidnihtWolf">
