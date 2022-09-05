@@ -2,6 +2,7 @@
 
 # *Oieeeee...Prazer, Ana Rodrigues* 🥰🖖
 
+
 ##### 💼 Hoje trabalho com *Front-end* e *UX/UI Design*.
 ##### 🚀 Estudando *Programação Web* e *Gestão de Qualidade*.
 ##### ✨ 
@@ -13,8 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anarodrigues&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarodrigues&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-
-  
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ana-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
@@ -28,4 +28,4 @@
   <img align="center" alt="Ana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-  
+  ##
